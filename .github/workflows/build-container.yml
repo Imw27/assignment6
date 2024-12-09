@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: Imw27/assignment6:prod
+        tags: imw27/assignment6:prod
